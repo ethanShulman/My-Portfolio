@@ -3160,5 +3160,15 @@ input, select, textarea {
 	  }
 
 	  #github-pic {
-		width: 30vw;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	  }
+
+	  #github-pic img {
+		height: 8vh;
+	  }
+
+	  .github-text {
+		text-align: center;
 	  }
