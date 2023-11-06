@@ -3172,3 +3172,11 @@ input, select, textarea {
 	  .github-text {
 		text-align: center;
 	  }
+
+	  .contact-me {
+		text-align: center;
+	  }
+	  .contact-me-links {
+		text-align: center;
+		font-size: 2rem;
+	  }
